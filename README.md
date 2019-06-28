@@ -1,0 +1,1 @@
+# cassandra22x-ansible-rolling-restart
