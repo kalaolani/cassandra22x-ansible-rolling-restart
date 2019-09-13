@@ -1,1 +1,1 @@
-# cassandra22x-ansible-rolling-restart
+# Cassandra 2.2.x Ansible Automated Rolling Restart
